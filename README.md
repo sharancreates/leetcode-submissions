@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sharancreates/leetcode-submissions/tree/master/0001-two-sum) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/sharancreates/leetcode-submissions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
