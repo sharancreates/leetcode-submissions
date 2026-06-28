@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sharancreates/leetcode-submissions/tree/master/0001-two-sum) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sharancreates/leetcode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/sharancreates/leetcode-submissions/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/sharancreates/leetcode-submissions/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/sharancreates/leetcode-submissions/tree/master/0184-department-highest-salary) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sharancreates/leetcode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Sorting
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sharancreates/leetcode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
