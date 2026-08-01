@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sharancreates/leetcode-submissions/tree/master/0001-two-sum) |
+| [0486-predict-the-winner](https://github.com/sharancreates/leetcode-submissions/tree/master/0486-predict-the-winner) |
 | [1331-rank-transform-of-an-array](https://github.com/sharancreates/leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sharancreates/leetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sharancreates/leetcode-submissions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/sharancreates/leetcode-submissions/tree/master/0486-predict-the-winner) |
 | [3620-network-recovery-pathways](https://github.com/sharancreates/leetcode-submissions/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sharancreates/leetcode-submissions/tree/master/0067-add-binary) |
+| [0486-predict-the-winner](https://github.com/sharancreates/leetcode-submissions/tree/master/0486-predict-the-winner) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sharancreates/leetcode-submissions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sharancreates/leetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sharancreates/leetcode-submissions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -157,4 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sharancreates/leetcode-submissions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/sharancreates/leetcode-submissions/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/sharancreates/leetcode-submissions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
