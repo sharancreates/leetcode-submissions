@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sharancreates/leetcode-submissions/tree/master/0067-add-binary) |
+| [0796-rotate-string](https://github.com/sharancreates/leetcode-submissions/tree/master/0796-rotate-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sharancreates/leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sharancreates/leetcode-submissions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/sharancreates/leetcode-submissions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -212,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sharancreates/leetcode-submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/sharancreates/leetcode-submissions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
