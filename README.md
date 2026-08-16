@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sharancreates/leetcode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sharancreates/leetcode-submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/sharancreates/leetcode-submissions/tree/master/1980-find-unique-binary-string) |
+| [2029-stone-game-ix](https://github.com/sharancreates/leetcode-submissions/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sharancreates/leetcode-submissions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sharancreates/leetcode-submissions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sharancreates/leetcode-submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sharancreates/leetcode-submissions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sharancreates/leetcode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/sharancreates/leetcode-submissions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sharancreates/leetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sharancreates/leetcode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sharancreates/leetcode-submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/sharancreates/leetcode-submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sharancreates/leetcode-submissions/tree/master/1510-stone-game-iv) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sharancreates/leetcode-submissions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2029-stone-game-ix](https://github.com/sharancreates/leetcode-submissions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sharancreates/leetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sharancreates/leetcode-submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sharancreates/leetcode-submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/sharancreates/leetcode-submissions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sharancreates/leetcode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sharancreates/leetcode-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sharancreates/leetcode-submissions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -231,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/sharancreates/leetcode-submissions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sharancreates/leetcode-submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sharancreates/leetcode-submissions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/sharancreates/leetcode-submissions/tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
 | ------- |
@@ -242,12 +247,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/sharancreates/leetcode-submissions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sharancreates/leetcode-submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sharancreates/leetcode-submissions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/sharancreates/leetcode-submissions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/sharancreates/leetcode-submissions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sharancreates/leetcode-submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sharancreates/leetcode-submissions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/sharancreates/leetcode-submissions/tree/master/2029-stone-game-ix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -276,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/sharancreates/leetcode-submissions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/sharancreates/leetcode-submissions/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
