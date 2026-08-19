@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sharancreates/leetcode-submissions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sharancreates/leetcode-submissions/tree/master/1140-stone-game-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/sharancreates/leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/sharancreates/leetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/sharancreates/leetcode-submissions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sharancreates/leetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/sharancreates/leetcode-submissions/tree/master/1563-stone-game-v) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sharancreates/leetcode-submissions/tree/master/0001-two-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/sharancreates/leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sharancreates/leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/sharancreates/leetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [1980-find-unique-binary-string](https://github.com/sharancreates/leetcode-submissions/tree/master/1980-find-unique-binary-string) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sharancreates/leetcode-submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sharancreates/leetcode-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/sharancreates/leetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sharancreates/leetcode-submissions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sharancreates/leetcode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/sharancreates/leetcode-submissions/tree/master/2029-stone-game-ix) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/sharancreates/leetcode-submissions/tree/master/0190-reverse-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/sharancreates/leetcode-submissions/tree/master/0693-binary-number-with-alternating-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/sharancreates/leetcode-submissions/tree/master/1009-complement-of-base-10-integer) |
+| [1386-cinema-seat-allocation](https://github.com/sharancreates/leetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sharancreates/leetcode-submissions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sharancreates/leetcode-submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sharancreates/leetcode-submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
