@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sharancreates/leetcode-submissions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sharancreates/leetcode-submissions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sharancreates/leetcode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/sharancreates/leetcode-submissions/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sharancreates/leetcode-submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/sharancreates/leetcode-submissions/tree/master/1980-find-unique-binary-string) |
 | [2029-stone-game-ix](https://github.com/sharancreates/leetcode-submissions/tree/master/2029-stone-game-ix) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/sharancreates/leetcode-submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sharancreates/leetcode-submissions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/sharancreates/leetcode-submissions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/sharancreates/leetcode-submissions/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sharancreates/leetcode-submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3620-network-recovery-pathways](https://github.com/sharancreates/leetcode-submissions/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/sharancreates/leetcode-submissions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/sharancreates/leetcode-submissions/tree/master/1563-stone-game-v) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sharancreates/leetcode-submissions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1872-stone-game-viii](https://github.com/sharancreates/leetcode-submissions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/sharancreates/leetcode-submissions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sharancreates/leetcode-submissions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sharancreates/leetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/sharancreates/leetcode-submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sharancreates/leetcode-submissions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/sharancreates/leetcode-submissions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/sharancreates/leetcode-submissions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/sharancreates/leetcode-submissions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sharancreates/leetcode-submissions/tree/master/2029-stone-game-ix) |
 ## Backtracking
@@ -270,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/sharancreates/leetcode-submissions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sharancreates/leetcode-submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sharancreates/leetcode-submissions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/sharancreates/leetcode-submissions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/sharancreates/leetcode-submissions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -277,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/sharancreates/leetcode-submissions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sharancreates/leetcode-submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sharancreates/leetcode-submissions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/sharancreates/leetcode-submissions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/sharancreates/leetcode-submissions/tree/master/2029-stone-game-ix) |
 ## Two Pointers
 |  |
@@ -302,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/sharancreates/leetcode-submissions/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/sharancreates/leetcode-submissions/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
