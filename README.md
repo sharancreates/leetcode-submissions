@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sharancreates/leetcode-submissions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/sharancreates/leetcode-submissions/tree/master/0486-predict-the-winner) |
 | [0645-set-mismatch](https://github.com/sharancreates/leetcode-submissions/tree/master/0645-set-mismatch) |
+| [0835-image-overlap](https://github.com/sharancreates/leetcode-submissions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/sharancreates/leetcode-submissions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sharancreates/leetcode-submissions/tree/master/1140-stone-game-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/sharancreates/leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/sharancreates/leetcode-submissions/tree/master/0835-image-overlap) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sharancreates/leetcode-submissions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sharancreates/leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sharancreates/leetcode-submissions/tree/master/3286-find-a-safe-walk-through-a-grid) |
