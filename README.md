@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/sharancreates/leetcode-submissions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sharancreates/leetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/sharancreates/leetcode-submissions/tree/master/1470-shuffle-the-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sharancreates/leetcode-submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/sharancreates/leetcode-submissions/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sharancreates/leetcode-submissions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sharancreates/leetcode-submissions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sharancreates/leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sharancreates/leetcode-submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/sharancreates/leetcode-submissions/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sharancreates/leetcode-submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1980-find-unique-binary-string](https://github.com/sharancreates/leetcode-submissions/tree/master/1980-find-unique-binary-string) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sharancreates/leetcode-submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sharancreates/leetcode-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -142,12 +144,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sharancreates/leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sharancreates/leetcode-submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sharancreates/leetcode-submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sharancreates/leetcode-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sharancreates/leetcode-submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sharancreates/leetcode-submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sharancreates/leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sharancreates/leetcode-submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3620-network-recovery-pathways](https://github.com/sharancreates/leetcode-submissions/tree/master/3620-network-recovery-pathways) |
@@ -200,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/sharancreates/leetcode-submissions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/sharancreates/leetcode-submissions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sharancreates/leetcode-submissions/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sharancreates/leetcode-submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/sharancreates/leetcode-submissions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/sharancreates/leetcode-submissions/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sharancreates/leetcode-submissions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
