@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sharancreates/leetcode-submissions/tree/master/0001-two-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sharancreates/leetcode-submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/sharancreates/leetcode-submissions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/sharancreates/leetcode-submissions/tree/master/0486-predict-the-winner) |
 | [0645-set-mismatch](https://github.com/sharancreates/leetcode-submissions/tree/master/0645-set-mismatch) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/sharancreates/leetcode-submissions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/sharancreates/leetcode-submissions/tree/master/0067-add-binary) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sharancreates/leetcode-submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/sharancreates/leetcode-submissions/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/sharancreates/leetcode-submissions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/sharancreates/leetcode-submissions/tree/master/0877-stone-game) |
