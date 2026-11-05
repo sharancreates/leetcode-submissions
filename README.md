@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sharancreates/leetcode-submissions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2409-count-days-spent-together](https://github.com/sharancreates/leetcode-submissions/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sharancreates/leetcode-submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2810-faulty-keyboard](https://github.com/sharancreates/leetcode-submissions/tree/master/2810-faulty-keyboard) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sharancreates/leetcode-submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sharancreates/leetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sharancreates/leetcode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sharancreates/leetcode-submissions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/sharancreates/leetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sharancreates/leetcode-submissions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2810-faulty-keyboard](https://github.com/sharancreates/leetcode-submissions/tree/master/2810-faulty-keyboard) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sharancreates/leetcode-submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/sharancreates/leetcode-submissions/tree/master/3498-reverse-degree-of-a-string) |
 ## Divide and Conquer
